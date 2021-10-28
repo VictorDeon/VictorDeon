@@ -30,6 +30,9 @@
   <img align="center" alt="Linux" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img align="center" alt="Postgresql" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="Django"  width="30" height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
+  <img align="center" alt="MongoDB"  width="50" height="40" src="https://user-images.githubusercontent.com/14116020/139320366-df337008-d87a-41a5-b503-9c87004a2843.png" />
+  <img align="center" alt="FastAPI"  width="40" height="40" src="https://user-images.githubusercontent.com/14116020/139320371-157975f5-4293-44c7-9d3e-1fbde1da1247.png" />
+  <img align="center" alt="GraphQL"  width="30" height="40" src="https://user-images.githubusercontent.com/14116020/65402104-c7522280-dda2-11e9-86f2-206e51608c1e.png" />
 </div>
   
 <br />
