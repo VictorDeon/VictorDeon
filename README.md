@@ -45,7 +45,8 @@
   
 <p align="left"> 
   <a href="https://profile.codersrank.io/user/victordeon">
-    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=VictorDeon&badges=5&show-avatar=false&style=--border-radius:0px" />     </a>    
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=VictorDeon&badges=2&show-avatar=false&style=--border-radius:0px" />
+  </a>    
 </p>
 
 <p align="left"> 
